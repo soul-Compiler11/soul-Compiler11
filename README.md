@@ -167,7 +167,6 @@ class Animesh:
 
         self.languages = [
             "Python",
-            "C",
             "JavaScript",
             "HTML",
             "CSS"
