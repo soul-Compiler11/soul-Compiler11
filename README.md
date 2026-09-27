@@ -161,7 +161,6 @@ class Animesh:
             "Artificial Intelligence",
             "Generative AI",
             "Full-Stack Development",
-            "UI/UX Design",
             "Product Development"
         ]
 
