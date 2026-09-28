@@ -1,5 +1,5 @@
-````python
-# generate_readme.py
+
+
 
 readme = r'''# 👋 Hey, I'm Animesh Bhatt
 
@@ -13,7 +13,7 @@ readme = r'''# 👋 Hey, I'm Animesh Bhatt
   <img src="https://komarev.com/ghpvc/?username=soul-Compiler11&style=for-the-badge&color=blueviolet" />
 </p>
 
----
+
 
 ## 🧑‍💻 About Me
 
