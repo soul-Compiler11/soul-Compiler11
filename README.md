@@ -1,4 +1,4 @@
-readme = r'''# 👋 Hey, I'm Animesh Bhatt
+hey 👋 its me animesh bhatt
 
 ### 💻 B.Tech IT Student | AI Enthusiast | Full-Stack Developer 
 
