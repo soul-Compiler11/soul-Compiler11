@@ -1,6 +1,3 @@
-
-
-
 readme = r'''# 👋 Hey, I'm Animesh Bhatt
 
 ### 💻 B.Tech IT Student | AI Enthusiast | Full-Stack Developer 
@@ -189,10 +186,4 @@ print(me.mindset())
 
 </p>
 '''
-
-with open("README.md", "w", encoding="utf-8") as file:
-file.write(readme)
-
-print("✅ README.md created successfully!")
-
 ````
